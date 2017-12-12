@@ -1,4 +1,6 @@
+# Problema a ser resolvido
 
+O problema resolvido no Dojo foi retirado do site [DojoPuzzles](http://dojopuzzles.com/). O problema escolhido foi [Calculando estatísticas simples](http://dojopuzzles.com/problemas/exibe/calculando-estatisticas-simples/)
 
 # Restropectiva
 
