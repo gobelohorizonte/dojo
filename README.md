@@ -1,5 +1,5 @@
-# dojo
-Repositório com códigos de Dojos realizados pela comunidade
+# Coding Dojo
+Repositório com códigos de Dojos realizados pela comunidade em meetups, workshops ou qualquer outro evento
 
 ## Dojos realizados
 
